@@ -1,1 +1,2 @@
 # Image-stag-analysis
+The "Image Steganalysis" project is a Java-based application designed for the purpose of hiding and retrieving data within digital images, employing encryption and decryption processes to ensure data security. This project is particularly useful for secure data transmission and storage, as it allows users to embed confidential information within images while maintaining the appearance and integrity of the original image.
